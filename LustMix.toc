@@ -1,0 +1,34 @@
+## Interface: 120000, 120001
+## Title: LustMix
+## Notes: Bloodlust/Heroism music + animation addon
+## Author: Brian
+## Version: 1.0.0
+
+## SavedVariables: LustMixDB
+
+LustMix.lua
+Minimap.lua
+Settings.lua
+Animation.lua
+Music.lua
+Detection.lua
+FileList.lua
+
+#Animations\LunaSnow.tga
+#Animations\SP_Guy.tga
+#
+#Music\LunaSnow.mp3
+#Music\7thElement.mp3
+#Music\BYOB.mp3
+#Music\ChopSuey.mp3
+#Music\DiableJambre.mp3
+#Music\DontTrustMe.mp3
+#Music\DoomGate.mp3
+#Music\E33Monoco.mp3
+#Music\EverythingIsAlright.mp3
+#Music\KATAKURI.mp3
+#Music\MoveAlong.mp3
+#Music\NFL.mp3
+#Music\OnePiece.mp3
+#Music\PumpUp.mp3
+#Music\Running90s.mp3
